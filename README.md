@@ -78,5 +78,7 @@ This is an educational and visual simulation of hypothetical spacetime physics. 
 
 ## Credit 
 This project was developed by RedHarow 
+
 discord Username : 0xrdo
+
 github : https://github.com/redharlowcore
